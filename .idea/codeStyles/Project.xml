@@ -1,0 +1,11 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JavaCodeStyleSettings>
+      <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
+    </JavaCodeStyleSettings>
+    <MySQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="3" />
+    </MySQLCodeStyleSettings>
+  </code_scheme>
+</component>
